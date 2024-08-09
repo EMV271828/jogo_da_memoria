@@ -12,7 +12,7 @@ O sucesso ou fracasso na partida irá levar ao jogador à uma tela contendo mens
 
 ## Informações Adicionais
 
-Este programa foi criado como um aplicativo desktop em um ambiente linux.
+Este programa foi criado como um aplicativo desktop em ambiente linux.
 
 ## Imagens
 
