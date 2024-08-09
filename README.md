@@ -10,6 +10,10 @@ O sucesso ou fracasso na partida irá levar ao jogador à uma tela contendo mens
 - Flutter
 - Dart
 
+## Informações da Execução
+
+Este aplicativo foi criado no formato desktop em um ambiente linux.
+
 ## Imagens
 
 <img src="https://github.com/EMV271828/jogo_da_memoria/blob/readme_e_licenca/img/jogo_da_memoria_tela_inicial.png" width="500px">
