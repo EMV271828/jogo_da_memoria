@@ -10,9 +10,9 @@ O sucesso ou fracasso na partida irá levar ao jogador à uma tela contendo mens
 - Flutter
 - Dart
 
-## Informações da Execução
+## Informações Adicionais
 
-Este aplicativo foi criado no formato desktop em um ambiente linux.
+Este programa foi criado um aplicativo desktop em um ambiente linux.
 
 ## Imagens
 
