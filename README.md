@@ -12,3 +12,7 @@ O sucesso ou fracasso na partida irá levar ao jogador à uma tela contendo mens
 
 ## Imagens
 
+<img src="https://github.com/EMV271828/jogo_da_memoria/blob/readme_e_licenca/img/jogo_da_memoria_tela_inicial.png" width="500px">
+<img src="https://github.com/EMV271828/jogo_da_memoria/blob/readme_e_licenca/img/jogo_da_memoria_partida.png" width="500px">
+<img src="https://github.com/EMV271828/jogo_da_memoria/blob/readme_e_licenca/img/jogo_da_memoria_vitoria.png" width="500px">
+<img src="https://github.com/EMV271828/jogo_da_memoria/blob/readme_e_licenca/img/jogo_da_memoria_derrota.png" width="500px">
